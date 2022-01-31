@@ -2,7 +2,7 @@ create database DDLej11;
 use DDLej11;
 
 create table facultad(
-codigo int primary key,
+codigo int primary key auto_increment,
 nombre nvarchar(100)
 );
 
