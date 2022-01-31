@@ -1,4 +1,3 @@
-drop database DDLej8;
 create database DDLej8;
 use DDLej8;
 
